@@ -1,0 +1,113 @@
+.toubu {
+	width: 1500px;
+	height: 120px;
+	display: flex;
+	flex.direction: row;
+	line-height: 120px;
+
+	margin: 35px;
+	text-align: center;
+
+}
+
+.toubu1 {
+	width: 300px;
+	height: 100px;
+
+}
+.toubu51{
+	width: 100px;
+	height: 55px;
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	padding-left: 0px;
+	margin-left: 5px;
+	border: 1px solid;
+	text-align: center;
+	line-height: 65px
+}
+.toubu51 img{
+	text-align: center;
+	margin: 6px;
+	line-height: 55px;
+}
+.toubu2 {
+	width: 80px;
+	height: 80px;
+	padding: 5px 30px 40px;
+	padding-right: 0px;
+
+}
+
+.toubu3 {
+	text-align: center;
+	margin-top: 30px;
+	width: 100px;
+	height: 60px;
+	color: aliceblue;
+	line-height: 60px;
+	background-color: gainsboro;
+}
+
+.toubu4 {
+	width: 70px;
+	height: 40px;
+	font-size: 20px;
+}
+.toubu4 a{
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+.toubu5 {
+	padding-top: 50px;
+	width: 30px;
+}
+
+.toubu6 {
+
+	width: 100px;
+	height: 55px;
+	margin-top: 30px;
+	padding-left: 0px;
+	border: 1px solid;
+	text-align: center;
+	line-height: 55px;
+}
+
+#all1 {
+	width: 1500px;
+	height: 120px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+#all2 {
+	width: 1500px;
+	height: 120px;
+
+
+}
+
+}
+
+#all4 {
+	width: 1500px;
+	height: 230px;
+	margin-top: 180px;
+	color: #F0F8FF;
+
+}
+
+
+
+.toub {
+	width: 1500px;
+	height: 230px;
+	background-color: brown;
+	font-size: 22px;
+
+}
+

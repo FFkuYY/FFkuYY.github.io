@@ -1,0 +1,128 @@
+.shopcarboox {
+	width: 1500px;
+	height: 758px;
+
+}
+
+.shophead {
+	width: 100%;
+	height: 70px;
+	border: 1px solid gainsboro;
+	background-color: #DCDCDC;
+}
+
+.shopbdy {
+	width: 100%;
+	height: 211px;
+	float: left;
+	border: 1px solid gainsboro;
+}
+
+.shopbdy li {
+	float: left;
+	line-height: 170px;
+	list-style: none;
+}
+
+.shopbdy li:nth-child(1) {
+	margin-left: 0px;
+	width: 50px;
+}
+
+.shopbdy li:nth-child(2) {
+	width: 150px;
+}
+
+.shopbdy li:nth-child(3) {
+	width: 370px;
+}
+
+.shopbdy li:nth-child(4) {
+	width: 200px;
+	text-decoration: line-through;
+}
+
+.shopbdy li:nth-child(5) {
+	width: 230px;
+}
+
+.shopbdy li:nth-child(6) {
+	width: 220px;
+}
+
+.shophead li {
+	float: left;
+	list-style: none;
+	line-height: 35px;
+	font-size: 20px;
+}
+
+.shophead li:nth-child(1) {
+	margin-left: 50px;
+	width: 500px;
+}
+
+.shophead li:nth-child(2) {
+	width: 220px;
+}
+
+.shophead li:nth-child(3) {
+	width: 220px;
+}
+
+.shophead li:nth-child(4) {
+	width: 220px;
+
+}
+
+.shophead li:nth-child(5) {
+	width: 200px;
+}
+
+.shopbdy img {
+	padding-top: 30px;
+}
+
+.dibu {
+	width: 1500px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 20px;
+	border: 1px solid gainsboro;
+
+}
+
+.dibu ul>li {
+
+	float: right;
+
+	list-style: none;
+	line-height: 45px;
+}
+
+.dibu li:nth-child(1) {
+	margin-top: -20px;
+}
+
+.dibu li:nth-child(2) {
+	color: red;
+	padding-right: 20px;
+	font-size: 25px;
+	margin-top: -20px;
+}
+
+.dibu li:nth-child(3) {
+
+	line-height: 45px;
+	font-size: 20px;
+	margin-top: -20px;
+}
+
+.dibu button {
+	font-size: 31px;
+	color: white;
+	background-color: darkorange;
+	border: 0.5px solid black;
+}
+
+

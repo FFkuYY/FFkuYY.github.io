@@ -1,0 +1,98 @@
+	
+			.lsist{
+				width: 800px;
+				
+				display: flex;
+				flex-direction: row;
+				
+			}
+			
+			.shoplist{
+				width: 800px;
+				height: 300px;
+				display: flex;
+				flex-direction: row;
+				
+			}
+			.cl {
+				width: 200px;
+				height: 300px;
+				
+			}
+
+			.tp {
+				width: 100px;
+				height: 180px;
+				margin: 10px;
+			}
+
+			.lb {
+				width: 160px;
+				text-align: center;
+
+				margin: 10px;
+			}
+
+			.sq {
+				width: 160px;
+				text-align: center;
+				color: red;
+				margin: 10px;
+			}
+
+			.an {
+		     display: flex;
+			 flex-direction: row;
+				border: 0.5px solid gainsboro;
+				text-align: center;
+				width: 180px;
+				height: 30px;
+				margin: 6px;
+			}
+		.tp img{
+			width: 180px; 
+			height: 200px;
+		}
+		.an1{
+			width: 80px;
+			height: 30px;
+			display: flex;
+			flex-direction: row;
+			
+		}
+		.an2{
+			width: 100px;
+			height: 30px;
+			display: flex;
+			border: 0.5px solid gainsboro;
+			flex-direction: row;
+			
+		}
+		.an1 a{
+			width: 50px;
+			height: 25px;
+			margin-top: 3px;
+			
+		}
+		.abn{
+			margin-top: 7px;
+			margin-left: 5px;
+			width: 15px;
+			height: 15px;
+			
+			background-image: url(../img/ico_heart_d.png);
+			background-position: -145px -1px;
+		}
+		.abn1{
+			margin-top: 7px;
+			margin-left: 5px;
+			width: 15px;
+			height: 15px;
+			
+			background-image: url(../img/ico_cart_d.png);
+			background-position: -145px -1px;
+		}
+		.an2 a{
+			margin-top: 8px;
+			font-size: 3px;
+		}
